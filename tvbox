@@ -1,3 +1,8 @@
+{"spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;09489575C43684DF5ECEC8E675A9E0BA",                           
+// "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f", 
+// "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/fan.jar;md5;5AEE1FF968A3DC5CBBF225399E9441E9", 
+// "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51", 
+// "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt?ref_type=heads","wallpaper":"https://tool.weetai.cn/api", "warningText":"??一个分享者接口，永久完全免费，切勿付费购买??",
 {
     "spider": "http://122.51.37.23/man/jar/0407.jar",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
@@ -121,7 +126,11 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://122.51.37.23/man/jar/yqk.jar;md5;2d59112f66cf1631b13897babf0e3af0"
-        },
+        },{"key":"csp_SNzy","name":"🐉┃索尼┃高清","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"taopian","name":"🕹️淘片┃采集","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"filterable":0,"categories":["动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫…九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Duanju","name":"🎭短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://duanju.one"},
+{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kanqiu","name":"⚽88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
         {
             "key": "csp_sxtv",
             "name": "💚神仙影视",
@@ -392,10 +401,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://122.51.37.23/man/bili/哔哩大全.json"
-        },{"key":"csp_SNzy","name":"🐉┃索尼┃高清","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"taopian","name":"🕹️淘片┃采集","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"filterable":0,"categories":["动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫…录片","国产剧","香港剧","韩国剧","欧美剧","日本剧","台湾剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","港台综艺","欧美综艺","日韩综艺","动画片","体育","短剧","网络电影"]},
-{"key":"cjzy_暴风资源","name":"🎈┃暴风┃影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl":"","categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"]},
-{"key":"百度","name":"🎏百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0},
+        },
         {
             "key": "软件教程",
             "name": "📚软件教程",
