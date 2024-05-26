@@ -83,11 +83,7 @@
                 "影视解说",
                 "国产动漫"
             ]
-        },{"key":"6U资源","name": "6U资源","api": "http://www.6uzy.cc/inc/apijson_vod.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":1},
-{"key":"花旗资源","name": "花旗资源","api": "https://seacms.huaqi.live/zyapi.php","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 0,"id":2},
-{"key":"至圣云","name": "至圣云","api": "http://82.156.40.118:1234/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1…,"api": "https://1080api.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":6},
-{"key":"淘片资源","name": "淘片资源","api": "https://taopianapi.com/cjapi/mc10/vod/json.html","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":7},
-…{"key":"天空资源","name": "天空资源","api": "https://api.tiankongapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":58}
+        },
         {
             "key": "火狐",
             "name": "💜火狐(有广)",
