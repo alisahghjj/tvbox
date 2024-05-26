@@ -392,7 +392,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://122.51.37.23/man/bili/哔哩大全.json"
-        },
+        },{
+            "key": "学习园地",
+            "name": "📚学习园地",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://122.51.37.23/man/bili/学习园地.json"
+        }
         {
             "key": "软件教程",
             "name": "📚软件教程",
