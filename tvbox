@@ -46,7 +46,23 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://122.51.37.23/man/xbpq/文才.json"
-        },
+        }, {
+      "key": "量子资源",
+      "name": "量子资源",
+      "type": 0,
+      "api": "http://www.lzzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "综艺",
+        "动漫"
+      ] },
         {
             "key": "南瓜影视",
             "name": "💜南瓜影视",
