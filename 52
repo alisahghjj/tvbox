@@ -31,7 +31,15 @@
 {"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"changeable":1},
 {"key":"乐视","name":"乐视","type":1,"api":"https://leshiapi.com/api.php/provide/vod","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"changeable":1},
-  {
+  {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"csp_Bili","name":"哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.597},"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
+{"key":"csp_xuexi","name":"哔哩┃课堂","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0"…changeable":0,"ext":"./js/DJ音乐.js"},
+{"key":"drpy_js_短视频","name":"聚合┃短视频[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/短视频.js"},
+{"key":"drpy_js_酷6网","name":"聚合┃酷6网[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/酷6网.js"},
+{"key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/网易公版影像.js"},
+{"key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/酷奇MV.js"},
+{
       "key": "演唱会",
       "name": "💛吾爱演唱会",
       "type": 3,
