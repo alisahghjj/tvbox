@@ -1188,6 +1188,11 @@
       "url": "Demo"
     },
     {
+      "name": "py解析",
+      "type": 0,
+      "url": "https://www.pouyun.com/?url="
+    },
+{
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
