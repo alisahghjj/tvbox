@@ -64,7 +64,7 @@
  {
       "key": "金鹰",
       "name": "金鹰资源",
-      "type": 0,
+      "type": 4,
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
