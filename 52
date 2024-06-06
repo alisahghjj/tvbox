@@ -77,7 +77,24 @@
         "综艺"
       ]
     },
-
+{
+      "key": "6U资源",
+      "name": "6U资源",
+      "type": 0,
+      "api": "http://www.6uzy.cc/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "剧情片",
+        "综艺"
+      ]
+    },
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
