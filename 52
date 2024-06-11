@@ -48,15 +48,14 @@
       "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "动作片",
-        "电影",
-        "泰剧",
-        "综艺"
-      ]
+    },
+   {
+      "key": "可可资源",
+      "name": "可可资源",
+      "type": 0,
+      "api": "https://caiji.kekezyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
     },
 {
       "key": "6U资源",
